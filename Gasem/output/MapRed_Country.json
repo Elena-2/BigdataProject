@@ -1,0 +1,45 @@
+
+{"_id": {"Country": "Australia"}, "value": 45.0}
+{"_id": {"Country": "Austria"}, "value": 47.0}
+{"_id": {"Country": "Belgium"}, "value": 45.0}
+{"_id": {"Country": "Canada"}, "value": 50.0}
+{"_id": {"Country": "Chile"}, "value": 39.0}
+{"_id": {"Country": "Costa Rica"}, "value": 15.0}
+{"_id": {"Country": "Czech Republic"}, "value": 44.0}
+{"_id": {"Country": "Denmark"}, "value": 43.0}
+{"_id": {"Country": "Estonia"}, "value": 40.0}
+{"_id": {"Country": "European Union (28 Countries)"}, "value": 49.0}
+{"_id": {"Country": "Finland"}, "value": 45.0}
+{"_id": {"Country": "France"}, "value": 46.0}
+{"_id": {"Country": "Germany"}, "value": 51.0}
+{"_id": {"Country": "Greece"}, "value": 45.0}
+{"_id": {"Country": "Hungary"}, "value": 44.0}
+{"_id": {"Country": "Iceland"}, "value": 44.0}
+{"_id": {"Country": "Indonesia"}, "value": 14.0}
+{"_id": {"Country": "Ireland"}, "value": 45.0}
+{"_id": {"Country": "Israel"}, "value": 32.0}
+{"_id": {"Country": "Italy"}, "value": 49.0}
+{"_id": {"Country": "Japan"}, "value": 46.0}
+{"_id": {"Country": "Korea"}, "value": 41.0}
+{"_id": {"Country": "Latvia"}, "value": 40.0}
+{"_id": {"Country": "Lithuania"}, "value": 41.0}
+{"_id": {"Country": "Luxembourg"}, "value": 42.0}
+{"_id": {"Country": "Mexico"}, "value": 41.0}
+{"_id": {"Country": "Netherlands"}, "value": 45.0}
+{"_id": {"Country": "New Zealand"}, "value": 44.0}
+{"_id": {"Country": "Norway"}, "value": 47.0}
+{"_id": {"Country": "Oecd - Europe"}, "value": 55.0}
+{"_id": {"Country": "Oecd - Total"}, "value": 55.0}
+{"_id": {"Country": "Oecd America"}, "value": 30.0}
+{"_id": {"Country": "Oecd Asia Oceania"}, "value": 30.0}
+{"_id": {"Country": "Poland"}, "value": 41.0}
+{"_id": {"Country": "Portugal"}, "value": 42.0}
+{"_id": {"Country": "Russia"}, "value": 46.0}
+{"_id": {"Country": "Slovak Republic"}, "value": 44.0}
+{"_id": {"Country": "Slovenia"}, "value": 44.0}
+{"_id": {"Country": "Spain"}, "value": 46.0}
+{"_id": {"Country": "Sweden"}, "value": 45.0}
+{"_id": {"Country": "Switzerland"}, "value": 48.0}
+{"_id": {"Country": "Turkey"}, "value": 43.0}
+{"_id": {"Country": "United Kingdom"}, "value": 48.0}
+{"_id": {"Country": "United States"}, "value": 51.0}

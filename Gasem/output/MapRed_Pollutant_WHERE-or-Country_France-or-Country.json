@@ -1,0 +1,10 @@
+
+{"_id": {"Pollutant": "Carbon Dioxide"}, "value": 6.0}
+{"_id": {"Pollutant": "Greenhouse Gases"}, "value": 52.0}
+{"_id": {"Pollutant": "Hydrofluorocarbons"}, "value": 6.0}
+{"_id": {"Pollutant": "Methane"}, "value": 6.0}
+{"_id": {"Pollutant": "Nitrogen Trifluoride"}, "value": 3.0}
+{"_id": {"Pollutant": "Nitrous Oxide"}, "value": 6.0}
+{"_id": {"Pollutant": "Perfluorocarbons"}, "value": 6.0}
+{"_id": {"Pollutant": "Sulphur Hexafluoride"}, "value": 6.0}
+{"_id": {"Pollutant": "Unspecified Mix of HFCS and PFCS"}, "value": 1.0}

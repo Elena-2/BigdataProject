@@ -1,0 +1,30 @@
+2023/01/12 16:25:18  
+LOG FILE - DOCUMENT DATABASE  GASEM
+2023/01/12 16:25:18
+
+
+2023/01/12 16:25:18 -> MapRed_, PARAMETERS: [Country]
+2023/02/14 20:51:50 -> MapRed_, PARAMETERS: [Indicator, Country=Luxembourg, Unit=%]
+2023/02/14 21:01:01 -> MapRed_, PARAMETERS: [Indicator, Country=Canada, Country=Korea]
+2023/02/14 21:28:08 -> MapRed_, PARAMETERS: [Pollutant=Greenhouse, gases]
+2023/02/14 21:31:56 -> MapRed_, PARAMETERS: [Pollutant]
+2023/02/14 21:33:42 -> MapRed_, PARAMETERS: [Pollutant=Greenhouse, Gases]
+2023/02/14 21:35:10 -> MapRed_, PARAMETERS: [Pollutant=Methane]
+2023/02/14 21:36:53 -> MapRed_, PARAMETERS: [Country=Australia]
+2023/02/14 21:40:00 -> MapRed_, PARAMETERS: [Country, Country=Korea]
+2023/02/14 21:43:32 -> MapRed_, PARAMETERS: [Pollutant, Country=Austria]
+2023/02/14 21:44:59 -> MapRed_, PARAMETERS: [Indicator, sum]
+2023/02/14 21:48:08 -> MapRed_, PARAMETERS: [Indicator, avg]
+2023/02/14 21:51:11 -> MapRed_, PARAMETERS: [Country, or, Pollutant=Methane]
+2023/02/14 21:54:39 -> MapRed_, PARAMETERS: [Indicator, Country=Canada, Pollutant=Hydrofluorocarbons]
+2023/02/14 21:57:18 -> MapRed_, PARAMETERS: [Indicator]
+2023/02/14 21:59:31 -> MapRed_, PARAMETERS: [Country, Country=Korea, sum]
+2023/02/14 22:02:04 -> MapRed_, PARAMETERS: [Indicator, Country=Italy, Pollutant=GrennhouGases]
+2023/02/14 22:03:22 -> MapRed_, PARAMETERS: [Indicator, Country=Italy, Pollutant=GreenhouseGases]
+2023/02/14 22:05:16 -> MapRed_, PARAMETERS: [Indicator, Country=Italy, Pollutant=GreenhouseGases]
+2023/02/14 22:06:18 -> MapRed_, PARAMETERS: [Indicator, Country=Italy, Pollutant=Greenhouse, Gases]
+2023/02/14 22:09:02 -> MapRed_, PARAMETERS: [Pollutant=Greenhouse]
+2023/02/14 22:09:52 -> MapRed_, PARAMETERS: [Pollutant, Pollutant=Greenhouse]
+2023/02/14 22:10:34 -> MapRed_, PARAMETERS: [Pollutant, Pollutant=Greenhouse, Gases]
+2023/02/14 22:12:27 -> MapRed_, PARAMETERS: [Indicator, Country=Italy, Pollutant=Greenhouse, Gases]
+2023/02/14 22:14:31 -> MapRed_, PARAMETERS: [Pollutant, or, Country=France, Country=Spain]

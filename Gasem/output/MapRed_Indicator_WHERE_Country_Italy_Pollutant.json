@@ -1,0 +1,18 @@
+
+{"_id": {"Indicator": "1 - Energy"}, "value": 2.0}
+{"_id": {"Indicator": "1a1 - Energy Industries"}, "value": 2.0}
+{"_id": {"Indicator": "1a2 - Manufacturing Industries and Construction"}, "value": 2.0}
+{"_id": {"Indicator": "1a3 - Transport"}, "value": 2.0}
+{"_id": {"Indicator": "1a4 - Residential and Other Sectors"}, "value": 2.0}
+{"_id": {"Indicator": "1a5 - Energy - Other"}, "value": 2.0}
+{"_id": {"Indicator": "1b - Fugitive Emissions From Fuels"}, "value": 2.0}
+{"_id": {"Indicator": "2- Industrial Processes and Product Use"}, "value": 2.0}
+{"_id": {"Indicator": "3 - Agriculture"}, "value": 2.0}
+{"_id": {"Indicator": "5 - Waste"}, "value": 2.0}
+{"_id": {"Indicator": "Land Use, Land-Use Change and Forestry (Lulucf)"}, "value": 1.0}
+{"_id": {"Indicator": "Total  Emissions Excluding Lulucf"}, "value": 1.0}
+{"_id": {"Indicator": "Total  Emissions Including Lulucf"}, "value": 1.0}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf Per Capita"}, "value": 1.0}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf Per Unit of GDP"}, "value": 1.0}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf, Index 1990=100"}, "value": 1.0}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf, Index 2000=100"}, "value": 1.0}

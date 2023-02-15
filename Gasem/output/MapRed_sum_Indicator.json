@@ -1,0 +1,21 @@
+
+{"_id": {"Indicator": "1 - Energy"}, "value": 4.386913803599999E7}
+{"_id": {"Indicator": "1a1 - Energy Industries"}, "value": 1.6802619926999997E7}
+{"_id": {"Indicator": "1a2 - Manufacturing Industries and Construction"}, "value": 6214147.858}
+{"_id": {"Indicator": "1a3 - Transport"}, "value": 1.1808033469000004E7}
+{"_id": {"Indicator": "1a4 - Residential and Other Sectors"}, "value": 5826110.885000002}
+{"_id": {"Indicator": "1a5 - Energy - Other"}, "value": 727633.332}
+{"_id": {"Indicator": "1b - Fugitive Emissions From Fuels"}, "value": 1908826.4890000003}
+{"_id": {"Indicator": "1c - Co2 From Transport and Storage"}, "value": 127.005}
+{"_id": {"Indicator": "2- Industrial Processes and Product Use"}, "value": 4004139.4990000003}
+{"_id": {"Indicator": "3 - Agriculture"}, "value": 5053071.129999999}
+{"_id": {"Indicator": "5 - Waste"}, "value": 1613930.8659999995}
+{"_id": {"Indicator": "6 - Other"}, "value": 46.458999999999996}
+{"_id": {"Indicator": "Agriculture, Forestry and Other Land Use (Afolu)"}, "value": 1656311.0}
+{"_id": {"Indicator": "Land Use, Land-Use Change and Forestry (Lulucf)"}, "value": -3683612.2579999994}
+{"_id": {"Indicator": "Total  Emissions Excluding Lulucf"}, "value": 9.675973060300007E7}
+{"_id": {"Indicator": "Total  Emissions Including Lulucf"}, "value": 4.796250845399999E7}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf Per Capita"}, "value": 443.7690000000001}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf Per Unit of GDP"}, "value": 12.792000000000002}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf, Index 1990=100"}, "value": 1.1023026368500005E8}
+{"_id": {"Indicator": "Total GHG Excl. Lulucf, Index 2000=100"}, "value": 49964.96599999999}
